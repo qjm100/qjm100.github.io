@@ -1,7 +1,7 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hexo",
-    "description": "",
+    "title": "优雅",
+    "description": "模拟只会猜题意，贪心只能过样例。",
     "home_page_url": "https://elegant-axe.top",
     "items": [
         {
