@@ -1,27 +1,13 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>优雅</title>
+        <title>优雅 • Posts by &#34;first&#34; tag</title>
         <link>https://elegant-axe.top</link>
         <description>模拟只会猜题意，贪心只能过样例。</description>
         <language>zh-CN</language>
-        <pubDate>Fri, 25 Oct 2024 22:12:43 +0800</pubDate>
-        <lastBuildDate>Fri, 25 Oct 2024 22:12:43 +0800</lastBuildDate>
+        <pubDate>Fri, 25 Oct 2024 19:07:16 +0800</pubDate>
+        <lastBuildDate>Fri, 25 Oct 2024 19:07:16 +0800</lastBuildDate>
         <category>first</category>
-        <item>
-            <guid isPermalink="true">https://elegant-axe.top/2024/10/25/testt/</guid>
-            <title>testt</title>
-            <link>https://elegant-axe.top/2024/10/25/testt/</link>
-            <pubDate>Fri, 25 Oct 2024 22:12:43 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://elegant-axe.top/2024/10/25/test/</guid>
-            <title>test</title>
-            <link>https://elegant-axe.top/2024/10/25/test/</link>
-            <pubDate>Fri, 25 Oct 2024 21:55:02 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
         <item>
             <guid isPermalink="true">https://elegant-axe.top/2024/10/25/hello-world/</guid>
             <title>Hello World</title>

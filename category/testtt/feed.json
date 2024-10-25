@@ -1,25 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "优雅",
+    "title": "优雅 • All posts by \"testtt\" category",
     "description": "模拟只会猜题意，贪心只能过样例。",
     "home_page_url": "https://elegant-axe.top",
     "items": [
-        {
-            "id": "https://elegant-axe.top/2024/10/25/testt/",
-            "url": "https://elegant-axe.top/2024/10/25/testt/",
-            "title": "testt",
-            "date_published": "2024-10-25T14:12:43.000Z",
-            "content_html": "",
-            "tags": []
-        },
-        {
-            "id": "https://elegant-axe.top/2024/10/25/test/",
-            "url": "https://elegant-axe.top/2024/10/25/test/",
-            "title": "test",
-            "date_published": "2024-10-25T13:55:02.000Z",
-            "content_html": "",
-            "tags": []
-        },
         {
             "id": "https://elegant-axe.top/2024/10/25/hello-world/",
             "url": "https://elegant-axe.top/2024/10/25/hello-world/",
