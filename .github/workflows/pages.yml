@@ -19,17 +19,10 @@ jobs:
         with:
           # Examples: 20, 18.19, >=16.20.2, lts/Iron, lts/Hydrogen, *, latest, current, node
           # Ref: https://github.com/actions/setup-node#supported-version-syntax
-          node-version: "22"
+          node-version: 22
       - name: Install dependencies
         run: npm install pnpm -g
 
-      - name: Cache NPM dependencies
-        uses: actions/cache@v4
-        with:
-          path: node_modules
-          key: ${{ runner.OS }}-pnpm-cache
-          restore-keys: |
-            ${{ runner.OS }}-pnpm-cache
       - name: Build TypeScript files
         run: |
           pnpm install
