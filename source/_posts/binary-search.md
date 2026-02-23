@@ -1,16 +1,12 @@
 ---
-title: "Untitled"
-updated: 2026-02-15T19:21:27.057265
+title: "binary-search"
+updated: 2026-02-23T10:52:51.324927
+tags:
+  - 算法
+  - 二分
 ---
 
 
----
-title: binary-search
-date: 2026-01-24 15:52:34
-tags: 
-- 算法 
-- 二分
----
 # 二分查找算法
 
 > 常见的二分查找一般用于有序队列中快速查找一个元素的位置，时间复杂度为 * O(log n)*。
